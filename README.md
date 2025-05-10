@@ -36,4 +36,4 @@ This is a static project and can be deployed on:
 GitHub Pages
 
 📍 Live Preview:
-🔗 https://varsha-sk000.github.io/Udemy_Clone/
+🔗 https://github.com/Varsha-SK000/Udemy_Clone
